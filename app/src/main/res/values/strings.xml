@@ -3,4 +3,19 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_info">Info</string>
+
+    <string name="play">JUGAR</string>
+    <string name="info">INFO</string>
+
+    <string name="about_us">Somos dos estudiantes del modulo de Formacion Profesional de Desarrollo de Aplicaciones Multiplataforma</string>
+    <string name="about_app">El objetivo principal de la aplicacion es la de buscar hacer de alguna forma dinamico una aplicacion de acertijos, para poder generar entretenimiento el mayor tiempo posible.</string>
+    <string name="about_level">El juego se encuentra dividido en tres niveles en funcion de la dificultad.A partir de una cantidad determinada de respuestas acertadas, se desbloquearan los siguientes niveles </string>
+    <string name="about_points">Cada respuesta acertada te otorga una cantidad de puntos,que se podran utilizar para comprar comprar tanto pistas como respuestas completas</string>
+    <string name="about_cript">Los criptogramas son un nivel extra con dificultad unica que sirve exclusivamente para lograr puntos para gastar en pistas y respuestas, en ningun caso computaran para desbloquear un nuevo nivel</string>
+    <string name="title_activity_levels">Levels</string>
+
+
+
+
 </resources>
