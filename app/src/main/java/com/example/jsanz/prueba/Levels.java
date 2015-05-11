@@ -1,17 +1,26 @@
 package com.example.jsanz.prueba;
 
-import android.support.v7.app.ActionBarActivity;
+import android.app.Activity;
+
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 
-public class Levels extends ActionBarActivity {
-
+public class Levels extends Activity {
+    private ListView list;
+    private String[] levels = {"Facil", "Medio", "Dificil","Criptogramas"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_levels);
+
+        list = (ListView)findViewById(R.id.list_levels);
+        ArrayAdapter<String> adaptador = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, levels);
+        list.setAdapter(adaptador);
+
     }
 
 
