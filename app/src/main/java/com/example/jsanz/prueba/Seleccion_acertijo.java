@@ -1,8 +1,8 @@
 package com.example.jsanz.prueba;
 
 import android.app.Activity;
-
 import android.content.Intent;
+import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -12,35 +12,37 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 
-public class Levels extends Activity {
+public class Seleccion_acertijo extends Activity {
     private ListView list;
-    private String[] levels = {"Facil", "Medio", "Dificil","Criptogramas"};
+    private String[] enigmas = {"Enigma 01", "Enigma 02", "Enigma 03","Enigma 04","Enigma 05",
+            "Enigma 06","Enigma 07","Enigma 08","Enigma 09","Enigma 10"};
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_levels);
+        setContentView(R.layout.activity_seleccion_acertijo);
 
-        list = (ListView)findViewById(R.id.list_levels);
-        ArrayAdapter<String> adaptador = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, levels);
+        list = (ListView)findViewById(R.id.list_acertijos);
+        ArrayAdapter<String> adaptador = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, enigmas);
         list.setAdapter(adaptador);
         list.setOnItemClickListener(new AdapterView.OnItemClickListener(){
 
             @Override
             public void onItemClick(AdapterView<?> arg0, View arg1, int position, long id) {
-                Intent i = new Intent(getApplicationContext(),Seleccion_acertijo.class);
+                Intent i = new Intent(getApplicationContext(),Acertijo.class);
                 startActivity(i);
 
             }
 
         });
 
-
     }
 
 
+    @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_levels, menu);
+        getMenuInflater().inflate(R.menu.menu_seleccion_acertijo, menu);
         return true;
     }
 

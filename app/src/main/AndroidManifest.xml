@@ -28,6 +28,10 @@
             android:name=".Acertijo"
             android:label="@string/title_activity_acertijo" >
         </activity>
+        <activity
+            android:name=".Seleccion_acertijo"
+            android:label="@string/title_activity_seleccion_acertijo" >
+        </activity>
     </application>
 
 </manifest>
