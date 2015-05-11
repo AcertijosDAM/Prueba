@@ -11,10 +11,83 @@
     <string name="about_us">Somos dos estudiantes del modulo de Formacion Profesional de Desarrollo de Aplicaciones Multiplataforma</string>
     <string name="about_app">El objetivo principal de la aplicacion es la de buscar hacer de alguna forma dinamico una aplicacion de acertijos, para poder generar entretenimiento el mayor tiempo posible.</string>
     <string name="about_level">El juego se encuentra dividido en tres niveles en funcion de la dificultad.A partir de una cantidad determinada de respuestas acertadas, se desbloquearan los siguientes niveles </string>
-    <string name="about_points">Cada respuesta acertada te otorga una cantidad de puntos,que se podran utilizar para comprar comprar tanto pistas como respuestas completas</string>
+    <string name="about_points">Cada respuesta acertada te otorga una cantidad de puntos,que se podran utilizar para comprar tanto pistas como respuestas completas</string>
     <string name="about_cript">Los criptogramas son un nivel extra con dificultad unica que sirve exclusivamente para lograr puntos para gastar en pistas y respuestas, en ningun caso computaran para desbloquear un nuevo nivel</string>
     <string name="title_activity_levels">Levels</string>
     <string name="title_activity_acertijo">Acertijo</string>
+
+
+    <!--
+
+        Encunciados y soluciones de los niveles FACILES
+
+    -->
+
+    <string name="facil_01">En un partido de tenis,Nadal gano a Federer un set 6-3.Cinco juegos los gano el jugador que no servía.¿Quién sirvio primero?</string>
+    <string name="solucion_facil_01">Nadal</string>
+
+    <string name="facil_02">¿Cuantos numeros 9 se necesitan para numerar a todos los portales de una calle si esta tiene 100 portales?</string>
+    <string name="solucion_facil_02">20</string>
+
+    <string name="facil_03">¿Cuantas extremidades tienen 5 centauros?</string>
+    <string name="solucion_facil_03">30</string>
+
+    <string name="facil_04">¿Cuantos medira un angulo de 25º si lo observamos a traves de una lupa de 5 aumentos?</string>
+    <string name="solucion_facil_04">25</string>
+
+    <string name="facil_05">En un taller, dos mecanicos pueden reparar 8 coches en 4 horas.¿Cuantos mecanicos se necesitan para reparar 32 coches en 6 horas?</string>
+    <string name="solucion_facil_05">6</string>
+
+    <string name="facil_06">¿Que numero si le restas la mitad obtienes un cero?</string>
+    <string name="solucion_facil_06">8</string>
+
+    <string name="facil_07">Una chica que esta aprendiendo a conducir estaba bajando por una calle unidireccional en direccion contraria sin cometer ninguna infraccion.¿Como pudo ser?</string>
+    <string name="solucion_facil_01">Marcha atras</string>
+
+    <string name="facil_08">¿Como se puede transportar agua en un colador?</string>
+    <string name="solucion_facil_08">Congelada</string>
+
+    <string name="facil_09">¿Cuantos minutos se necesitan para cocer un huevo duro?</string>
+    <string name="solucion_facil_09">0</string>
+
+    <string name="facil_10">Dos personas estan sentados en un banco.Uno de ellos es el hijo del otro, pero el otro no es padre.¿Quien es entonces?</string>
+    <string name="solucion_facil_10">Madre</string>
+
+    <!--
+
+       Encunciados y soluciones de los niveles MEDIOS
+
+   -->
+
+    <string name="medio_01">En un partido de tenis,Nadal gano a Federer un set 6-3.Cinco juegos los gano el jugador que no servía.¿Quién sirvio primero?</string>
+    <string name="solucion_medio_01">Nadal</string>
+
+    <string name="medio_02">¿Cuantos numeros 9 se necesitan para numerar a todos los portales de una calle si esta tiene 100 portales?</string>
+    <string name="solucion_medio_02">20</string>
+
+    <string name="medio_03">¿Cuantas extremidades tienen 5 centauros?</string>
+    <string name="solucion_medio_03">30</string>
+
+    <string name="medio_04">¿Cuantos medira un angulo de 25º si lo observamos a traves de una lupa de 5 aumentos?</string>
+    <string name="solucion_medio_04">25</string>
+
+    <string name="medio_05">En un taller, dos mecanicos pueden reparar 8 coches en 4 horas.¿Cuantos mecanicos se necesitan para reparar 32 coches en 6 horas?</string>
+    <string name="solucion_medio_05">6</string>
+
+    <string name="medio_06">¿Que numero si le restas la mitad obtienes un cero?</string>
+    <string name="solucion_medio_06">8</string>
+
+    <string name="medio_07">Una chica que esta aprendiendo a conducir estaba bajando por una calle unidireccional en direccion contraria sin cometer ninguna infraccion.¿Como pudo ser?</string>
+    <string name="solucion_medio_01">Marcha atras</string>
+
+    <string name="medio_08">¿Como se puede transportar agua en un colador?</string>
+    <string name="solucion_medio_08">Congelada</string>
+
+    <string name="medio_09">¿Cuantos minutos se necesitan para cocer un huevo duro?</string>
+    <string name="solucion_medio_09">0</string>
+
+    <string name="medio_10">Dos personas estan sentados en un banco.Uno de ellos es el hijo del otro, pero el otro no es padre.¿Quien es entonces?</string>
+    <string name="solucion_medio_10">Madre</string>
 
 
 
