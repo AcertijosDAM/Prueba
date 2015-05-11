@@ -22,7 +22,7 @@
 
     -->
 
-    <string name="facil_01">En un partido de tenis,Nadal gano a Federer un set 6-3.Cinco juegos los gano el jugador que no servía.¿Quién sirvio primero?</string>
+    <string name="facil_01">En un partido de tenis,Nadal gano a Federer un set 6&#8211;3.Cinco juegos los gano el jugador que no servía.¿Quién sirvio primero?</string>
     <string name="solucion_facil_01">Nadal</string>
 
     <string name="facil_02">¿Cuantos numeros 9 se necesitan para numerar a todos los portales de una calle si esta tiene 100 portales?</string>
@@ -41,7 +41,7 @@
     <string name="solucion_facil_06">8</string>
 
     <string name="facil_07">Una chica que esta aprendiendo a conducir estaba bajando por una calle unidireccional en direccion contraria sin cometer ninguna infraccion.¿Como pudo ser?</string>
-    <string name="solucion_facil_01">Marcha atras</string>
+    <string name="solucion_facil_07">Marcha atras</string>
 
     <string name="facil_08">¿Como se puede transportar agua en un colador?</string>
     <string name="solucion_facil_08">Congelada</string>
@@ -58,26 +58,26 @@
 
    -->
 
-    <string name="medio_01">En un partido de tenis,Nadal gano a Federer un set 6-3.Cinco juegos los gano el jugador que no servía.¿Quién sirvio primero?</string>
-    <string name="solucion_medio_01">Nadal</string>
+    <string name="medio_01">Juan esta leyendo un libro por la noche y su mujer le apaga la luz, pero juan puede seguir leyendo¿Como es posible?</string>
+    <string name="solucion_medio_01">Es ciego</string>
 
-    <string name="medio_02">¿Cuantos numeros 9 se necesitan para numerar a todos los portales de una calle si esta tiene 100 portales?</string>
-    <string name="solucion_medio_02">20</string>
+    <string name="medio_02">Desayunando hoy, se me cayó un pendiente en el cafe y aunque la taza estaba llena, el pendiente no se mojo.¿Como es posible?</string>
+    <string name="solucion_medio_02">Granos de cafe</string>
 
-    <string name="medio_03">¿Cuantas extremidades tienen 5 centauros?</string>
-    <string name="solucion_medio_03">30</string>
+    <string name="medio_03">El hijo de Luis es ahora tres veces mas joven que yo. Pero hace cinco años, era cuatro veces mas joven.¿Cuantos años tiene el hijo de Luis?</string>
+    <string name="solucion_medio_03">15</string>
 
-    <string name="medio_04">¿Cuantos medira un angulo de 25º si lo observamos a traves de una lupa de 5 aumentos?</string>
-    <string name="solucion_medio_04">25</string>
+    <string name="medio_04">A una feria iban cada niño con un adulto. Cada adulto pagaba 2 euros y cada niño 1.Si la recaudacion fue de 180€.¿Cuantos niños fueron a la feria?</string>
+    <string name="solucion_medio_04">60</string>
 
-    <string name="medio_05">En un taller, dos mecanicos pueden reparar 8 coches en 4 horas.¿Cuantos mecanicos se necesitan para reparar 32 coches en 6 horas?</string>
-    <string name="solucion_medio_05">6</string>
+    <string name="medio_05">Si queda del dia la quinta parte de las horas que han pasado,¿Que hora sera? Formato hh:mm</string>
+    <string name="solucion_medio_05">20:00</string>
 
-    <string name="medio_06">¿Que numero si le restas la mitad obtienes un cero?</string>
-    <string name="solucion_medio_06">8</string>
+    <string name="medio_06">Antonieta pesa 60kilos mas que la mitad de su peso total.¿Cuanto pesa Antonieta en kg?</string>
+    <string name="solucion_medio_06">120</string>
 
-    <string name="medio_07">Una chica que esta aprendiendo a conducir estaba bajando por una calle unidireccional en direccion contraria sin cometer ninguna infraccion.¿Como pudo ser?</string>
-    <string name="solucion_medio_01">Marcha atras</string>
+    <string name="medio_07">En un cajon hay 11,2€.Si hay igual monedas de 10,5 y 1 centimo.¿Cuantas monedas hay en el cajon?</string>
+    <string name="solucion_medio_07">210</string>
 
     <string name="medio_08">¿Como se puede transportar agua en un colador?</string>
     <string name="solucion_medio_08">Congelada</string>
