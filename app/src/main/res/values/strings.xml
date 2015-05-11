@@ -14,6 +14,7 @@
     <string name="about_points">Cada respuesta acertada te otorga una cantidad de puntos,que se podran utilizar para comprar tanto pistas como respuestas completas</string>
     <string name="about_cript">Los criptogramas son un nivel extra con dificultad unica que sirve exclusivamente para lograr puntos para gastar en pistas y respuestas, en ningun caso computaran para desbloquear un nuevo nivel</string>
     <string name="title_activity_levels">Levels</string>
+    <string name="title_activity_acertijo">Acertijo</string>
 
 
     <!--

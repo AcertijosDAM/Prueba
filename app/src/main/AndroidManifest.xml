@@ -24,6 +24,10 @@
             android:name=".Levels"
             android:label="@string/title_activity_levels" >
         </activity>
+        <activity
+            android:name=".Acertijo"
+            android:label="@string/title_activity_acertijo" >
+        </activity>
     </application>
 
 </manifest>

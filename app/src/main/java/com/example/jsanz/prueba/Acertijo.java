@@ -1,33 +1,24 @@
 package com.example.jsanz.prueba;
 
-import android.app.Activity;
-
+import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
 
 
-public class Levels extends Activity {
-    private ListView list;
-    private String[] levels = {"Facil", "Medio", "Dificil","Criptogramas"};
+public class Acertijo extends ActionBarActivity {
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_levels);
-
-        list = (ListView)findViewById(R.id.list_levels);
-        ArrayAdapter<String> adaptador = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, levels);
-        list.setAdapter(adaptador);
-
+        setContentView(R.layout.activity_acertijo);
     }
 
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_levels, menu);
+        getMenuInflater().inflate(R.menu.menu_acertijo, menu);
         return true;
     }
 
