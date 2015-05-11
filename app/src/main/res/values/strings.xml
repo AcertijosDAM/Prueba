@@ -79,14 +79,14 @@
     <string name="medio_07">En un cajon hay 11,2€.Si hay igual monedas de 10,5 y 1 centimo.¿Cuantas monedas hay en el cajon?</string>
     <string name="solucion_medio_07">210</string>
 
-    <string name="medio_08">¿Como se puede transportar agua en un colador?</string>
-    <string name="solucion_medio_08">Congelada</string>
+    <string name="medio_08">¿Cual es numero que tiene el mismo numero de letras que la cantidad que representa?</string>
+    <string name="solucion_medio_08">5</string>
 
-    <string name="medio_09">¿Cuantos minutos se necesitan para cocer un huevo duro?</string>
-    <string name="solucion_medio_09">0</string>
+    <string name="medio_09">Dada la serie "udtccsson", ¿que letra vendria despues?</string>
+    <string name="solucion_medio_09">d</string>
 
-    <string name="medio_10">Dos personas estan sentados en un banco.Uno de ellos es el hijo del otro, pero el otro no es padre.¿Quien es entonces?</string>
-    <string name="solucion_medio_10">Madre</string>
+    <string name="medio_10">Buscamos un numero de 6 cifras con las siguientes condiciones:Ninguna cifra es impar,la primera es un tercio de la quinta y la mitad de la tercera,la segunda es la menor de todas, la ultima es la diferencia entra la cuarta y la quinta.</string>
+    <string name="solucion_medio_10">204862</string>
 
 
 
