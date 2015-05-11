@@ -104,14 +104,14 @@
     <string name="dificil_03">Soy la primera en la luna, la segunda en plutón, no estoy en la tierra y soy la última en el sol ¿Quién soy?</string>
     <string name="solucion_dificil_03">L</string>
 
-    <string name="dificil_04">A una feria iban cada niño con un adulto. Cada adulto pagaba 2 euros y cada niño 1.Si la recaudacion fue de 180€.¿Cuantos niños fueron a la feria?</string>
-    <string name="solucion_dificil_04">60</string>
+    <string name="dificil_04">Utilizando operaciones aritmeticas con seis nueves, calcula 100 sin utilizar ningun parentesis ni espacios entre los numeros</string>
+    <string name="solucion_dificil_04">99+99/99</string>
 
-    <string name="dificil_05">Si queda del dia la quinta parte de las horas que han pasado,¿Que hora sera? Formato hh:mm</string>
-    <string name="solucion_dificil_05">20:00</string>
+    <string name="dificil_05">La nota media de una clase de 20 alumnos ha sido de 6.Ocho alumnos suspendieron con un 3 y el resto aprobaron.¿Cual es la nota media de los que aprobaron?</string>
+    <string name="solucion_dificil_05">8</string>
 
-    <string name="dificil_06">Antonieta pesa 60kilos mas que la mitad de su peso total.¿Cuanto pesa Antonieta en kg?</string>
-    <string name="solucion_dificil_06">120</string>
+    <string name="dificil_06">Suma mil usando solo sumas con el numero 8</string>
+    <string name="solucion_dificil_06">888+88+8+8+8</string>
 
     <string name="dificil_07">En un cajon hay 11,2€.Si hay igual monedas de 10,5 y 1 centimo.¿Cuantas monedas hay en el cajon?</string>
     <string name="solucion_dificil_07">210</string>
